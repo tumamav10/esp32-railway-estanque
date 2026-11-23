@@ -100,5 +100,4 @@ Se usó **Claude (Anthropic), mediante Claude Code**, como asistente durante el 
 | Documentación | Redactar borradores de README, FUENTES, protocolo de pruebas e iteraciones a partir de los datos reales del proyecto | Completa los datos que faltan (equipo, ODS, precios, fotos, pruebas) y revisa los textos |
 
 Todo el código generado con IA se probó en el hardware real y en la página publicada.
-Las cifras de este repositorio salen de mediciones o datos reales. Donde todavía falta
-un dato, el texto dice **POR COMPLETAR** en vez de inventarlo.
+Las cifras de este repositorio salen de mediciones o datos reales.
